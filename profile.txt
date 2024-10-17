@@ -1,0 +1,6 @@
+Introduction
+A port is a communication endpoint. Within an operating system, a port is opened or closed to data packets for specific processes or network services.
+
+Typically, ports identify a specific network service assigned to them. This can be changed by manually configuring the service to use a different port, but in general, the defaults can be used.
+
+The first 1024 ports (port numbers 0 to 1023) are referred to as well-known port numbers
